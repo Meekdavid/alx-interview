@@ -1,4 +1,4 @@
-Efficiently
+Efficientl
 #!/usr/bin/python3
 """This returns a list of lists of integers
    depicting the Pascal’s triangle
